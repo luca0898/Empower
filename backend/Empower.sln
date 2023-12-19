@@ -21,11 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Empower.Services", "Empower
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.REPOSITORIES", "4.REPOSITORIES", "{3BD8E7FD-FE98-43C5-AA85-8A8AB51C61D4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Empower.Repositories.Database", "Empower.Repositories\Empower.Repositories.Database\Empower.Repositories.Database.csproj", "{A78C0380-502A-4518-9319-5065F821FA96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Empower.Repositories.Database", "Empower.Repositories.Database\Empower.Repositories.Database.csproj", "{A78C0380-502A-4518-9319-5065F821FA96}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.TESTS", "5.TESTS", "{D5E96395-E188-4C67-9A5E-3852521EDC60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empower.Tests.Unit", "Empower.Tests\Empower.Tests.Unit\Empower.Tests.Unit.csproj", "{DFF2AEED-BFDA-46EF-B142-951DAD8EA132}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empower.Tests.Unit", "Empower.Tests.Unit\Empower.Tests.Unit.csproj", "{DFF2AEED-BFDA-46EF-B142-951DAD8EA132}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

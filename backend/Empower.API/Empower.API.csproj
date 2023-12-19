@@ -11,4 +11,15 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Empower.Domain\Empower.Domain.csproj" />
+    <ProjectReference Include="..\Empower.Repositories.Database\Empower.Repositories.Database.csproj" />
+    <ProjectReference Include="..\Empower.Services\Empower.Services.csproj" />
+    <ProjectReference Include="..\Empower.SystemObjects\Empower.SystemObjects.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ResponseModels\" />
+  </ItemGroup>
+
 </Project>
